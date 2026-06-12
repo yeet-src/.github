@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
+Welcome to yeet, a Linux runtime for building your own tools. Every tool is a .js file that runs on top of the yeet daemon, giving you a live, typed view of the kernel, with code you can attach to anything running on the host.
 
-**Here are some ideas to get you started:**
+The repos below are what that looks like in practice. Try a script, modify it, or build your own.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+It’s eBPF without the kernel expertise. Have fun!
+
+yeet.cx
