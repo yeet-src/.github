@@ -6,4 +6,4 @@ The repos below are what that looks like in practice. Try a script, modify it, o
 
 It’s eBPF without the kernel expertise. Have fun!
 
-yeet.cx
+[https://yeet.cx](https://yeet.cx)
